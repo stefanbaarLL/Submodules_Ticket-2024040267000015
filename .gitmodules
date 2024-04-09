@@ -1,6 +1,3 @@
-[submodule "Submodules_Ticket-2024040267000015"]
-	path = Submodules_Ticket-2024040267000015
-	url = ../Submodules_Ticket-2024040267000015.git
 [submodule "submodules2"]
 	path = submodules2
 	url = ../submodules2.git
